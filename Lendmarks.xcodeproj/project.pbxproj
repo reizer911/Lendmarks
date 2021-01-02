@@ -14,6 +14,7 @@
 		5F5AE22624A1463400C639BD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F5AE22524A1463400C639BD /* Preview Assets.xcassets */; };
 		5F5AE22924A1463400C639BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F5AE22724A1463400C639BD /* LaunchScreen.storyboard */; };
 		5F806E6C259FB4BE007FDCF5 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F806E6B259FB4BE007FDCF5 /* CircleImage.swift */; };
+		5F806E6F25A09369007FDCF5 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F806E6E25A09369007FDCF5 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5F5AE22824A1463400C639BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5F5AE22A24A1463400C639BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F806E6B259FB4BE007FDCF5 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		5F806E6E25A09369007FDCF5 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				5F5AE21E24A1463300C639BD /* SceneDelegate.swift */,
 				5F5AE22024A1463300C639BD /* ContentView.swift */,
 				5F806E6B259FB4BE007FDCF5 /* CircleImage.swift */,
+				5F806E6E25A09369007FDCF5 /* MapView.swift */,
 				5F5AE22224A1463400C639BD /* Assets.xcassets */,
 				5F5AE22724A1463400C639BD /* LaunchScreen.storyboard */,
 				5F5AE22A24A1463400C639BD /* Info.plist */,
@@ -151,6 +154,7 @@
 			files = (
 				5F5AE21D24A1463300C639BD /* AppDelegate.swift in Sources */,
 				5F806E6C259FB4BE007FDCF5 /* CircleImage.swift in Sources */,
+				5F806E6F25A09369007FDCF5 /* MapView.swift in Sources */,
 				5F5AE21F24A1463300C639BD /* SceneDelegate.swift in Sources */,
 				5F5AE22124A1463300C639BD /* ContentView.swift in Sources */,
 			);
